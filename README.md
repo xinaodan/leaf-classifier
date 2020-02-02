@@ -9,6 +9,7 @@ The most important notebook is `01-leaf-classifier.ipynb` which is under `/explo
 ```
 .
 ├── README.md
+├── docs
 ├── environment.yml            # conda environment file
 ├── exploration                # Exploratory analysis
 │   ├── data
