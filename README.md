@@ -58,18 +58,18 @@ The average validation accuracy is around 95% without image augmentation.
 
 Here are some predictions on images not in the training data:
 
-<img src="exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg" width="300" height="300" />
+<img src="https://biomesbylenhardt.pbworks.com/f/DSCN0103.JPG" height="400" width="400"/>
 
-`{'coniferous': 0.877267, 'deciduous': 0.122732975}`
+{'coniferous': 0.877267, 'deciduous': 0.122732975}
 
-<img src="exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg" width="300" height="300" />
+<img src="https://us.123rf.com/450wm/alexeyzet/alexeyzet1103/alexeyzet110300007/8977117-vector-illustration-cartoon-tree-isolated-on-white-background.jpg?ver=6" height="400" width="400"/>
 
-`{'coniferous': 0.054971006, 'deciduous': 0.94502896}`
+{'coniferous': 0.054971006, 'deciduous': 0.94502896}
 
-<img src="exploration/data/raw/misc/Coniferous_1c9168a756474262869fd82093c583cb.jpg" width="300" height="300" />
+<img src="https://c.wallhere.com/photos/84/91/canada_lake_coast_trees_coniferous_water_transparent_reflection-780184.jpg!d" height="400" width="600"/>
 
-`{'coniferous': 0.9271934, 'deciduous': 0.0728066}`
+{'coniferous': 0.9271934, 'deciduous': 0.0728066}
 
-<img src="exploration/data/raw/misc/images.jpg" width="300" height="300" />
+<img src="https://www.postable.com/blog/wp-content/uploads/2018/06/puppy2.jpg" height="400" width="600"/>
 
-`{'coniferous': 0.47172523, 'deciduous': 0.52827483}`
+{'coniferous': 0.47172523, 'deciduous': 0.52827483}
