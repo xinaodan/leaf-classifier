@@ -58,7 +58,7 @@ The average validation accuracy is around 95% without image augmentation.
 
 Here are some predictions on images not in the training data:
 
-![coniferous drawing](exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg)
+![coniferous drawing](https://biomesbylenhardt.pbworks.com/f/DSCN0103.JPG)
 
 {'coniferous': 0.877267, 'deciduous': 0.122732975}
 
