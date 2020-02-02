@@ -58,9 +58,7 @@ The average validation accuracy is around 95% without image augmentation.
 
 Here are some predictions on images not in the training data:
 
-<img src="/exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg" height="300" width="300"/>
-
-![](./exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg)
+![coniferous drawing](exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg)
 
 {'coniferous': 0.877267, 'deciduous': 0.122732975}
 
