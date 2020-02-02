@@ -2,7 +2,7 @@
 
 This project aims at building a classifier to identify Coniferous and Deciduous leaves with small data set.
 
-The most important notebook is `01-leaf-classifier.ipynb` which is under `/exploration/classify_leaf/`.
+The most important notebook is `01-leaf-classifier.ipynb` which is under `/exploration/notebooks/classify_leaf/`.
 
 ## Project Structure
 
