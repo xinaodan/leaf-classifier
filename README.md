@@ -4,6 +4,8 @@ This project aims at building a classifier to identify Coniferous and Deciduous 
 
 The most important notebook is `01-leaf-classifier.ipynb` which is under `/exploration/notebooks/classify_leaf/`.
 
+The report in `/docs/` has more details about the project.
+
 ## Project Structure
 
 ```
@@ -37,3 +39,9 @@ conda env create -f environment.yml
 ```
 pip install -r requirements.txt
 ```
+
+## Introduction
+
+Transfer Learning technique is applied in the project. 
+
+More specifically, the model is built on top of the MobileNet model with pre-trained ImageNet weights.
