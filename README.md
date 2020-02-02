@@ -58,18 +58,20 @@ The average validation accuracy is around 95% without image augmentation.
 
 Here are some predictions on images not in the training data:
 
-<img src="exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg" width="300" height="300" />
+<img src="/exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg" height="300" width="300"/>
 
-`{'coniferous': 0.877267, 'deciduous': 0.122732975}`
+![](./exploration/data/raw/misc/Coniferous_45e7ed10a2154988a72ae959261b6083.jpg)
 
-<img src="exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg" width="300" height="300" />
+{'coniferous': 0.877267, 'deciduous': 0.122732975}
 
-`{'coniferous': 0.054971006, 'deciduous': 0.94502896}`
+![](./exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg)
 
-<img src="exploration/data/raw/misc/Coniferous_1c9168a756474262869fd82093c583cb.jpg" width="300" height="300" />
+{'coniferous': 0.054971006, 'deciduous': 0.94502896}
 
-`{'coniferous': 0.9271934, 'deciduous': 0.0728066}`
+![](./exploration/data/raw/misc/Coniferous_1c9168a756474262869fd82093c583cb.jpg)
 
-<img src="exploration/data/raw/misc/images.jpg" width="300" height="300" />
+{'coniferous': 0.9271934, 'deciduous': 0.0728066}
 
-`{'coniferous': 0.47172523, 'deciduous': 0.52827483}`
+![](./exploration/data/raw/misc/images.jpg)
+
+{'coniferous': 0.47172523, 'deciduous': 0.52827483}
