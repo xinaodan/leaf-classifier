@@ -60,6 +60,8 @@ Here are some predictions on images not in the training data:
 
 ![coniferous drawing](https://biomesbylenhardt.pbworks.com/f/DSCN0103.JPG)
 
+<img src="https://biomesbylenhardt.pbworks.com/f/DSCN0103.JPG" width="300" height="300" />
+
 {'coniferous': 0.877267, 'deciduous': 0.122732975}
 
 ![](./exploration/data/raw/misc/Deciduous_59b21ec3ee184ef4809747ddd8254bc5.jpg)
