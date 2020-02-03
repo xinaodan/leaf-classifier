@@ -73,3 +73,12 @@ Here are some predictions on images not in the training data:
 <img src="https://www.postable.com/blog/wp-content/uploads/2018/06/puppy2.jpg" height="400" width="600"/>
 
 {'coniferous': 0.47172523, 'deciduous': 0.52827483}
+
+## Next
+### Plant Species Recognition
+The model can be trained to recognize species of the plant. Geographical information gathered from the mobile devices can be used to filter the results to get better accuracy.
+
+With more specific data, the model can learn to identify the diseases of the plant, the quality of the harvested crops, etc.
+
+### Understand What The Model Have Learned
+Output and display the pattern learned from the model can help understand and improve how the model works.
