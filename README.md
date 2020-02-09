@@ -50,6 +50,15 @@ More specifically, the model is built on top of the MobileNet model with pre-tra
 
 Only Coniferous and Deciduous leaf images are included in the training and validation data sets.
 
+Sample images:
+
+<img src="https://bugwoodcloud.org/images/768x512/5592247.jpg" height="200" width="200"/>
+<img src="https://bugwoodcloud.org/images/768x512/5592195.jpg" height="200" width="200"/>
+<img src="https://bugwoodcloud.org/images/768x512/5592243.jpg" height="200" width="200"/>
+<img src="https://bugwoodcloud.org/images/384x256/5592208.jpg" height="200" width="200"/>
+<img src="https://bugwoodcloud.org/images/384x256/5595564.jpg" height="200" width="200"/>
+<img src="https://bugwoodcloud.org/images/384x256/5590914.jpg" height="200" width="200"/>
+
 ## Result
 
 With image augmentation, the average validation accuracy is around 97% after 50 epochs.
